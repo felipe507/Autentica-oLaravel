@@ -1,5 +1,6 @@
 # Autentica-oLaravel
-Criado com composer require laravel/iu
+Criado com 
+composer require laravel/iu
 php artisan ui vue --auth
 
 Conecte com Banco de dados
